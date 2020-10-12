@@ -1,3 +1,7 @@
+# IBM Cloud Cluster
+
+In this tutorial , we will guide you thru step by step how to provision a Kubernetes Cluster for yourself. You need to have an IBM Cloud account, which you can create [here]
+
 ## Provisioning a Kubernetes cluster on IBM Cloud
 
 * Click the **Catalog** button on the top 
@@ -41,3 +45,5 @@
 * Your cluster is ready for usage 
 
 ![cluster-ready](/cluster-done.png)
+
+[here]: <http://cloud.ibm.com/registration>
